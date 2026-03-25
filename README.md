@@ -38,12 +38,12 @@ A continuación, se presentan las curvas de aprendizaje generadas durante las 10
 
 ### Entrenamiento del Modelo (Progreso General)
 <p align="center">
-  <img src="Entrenamiento del Modelo.PNG" alt="Progreso general del entrenamiento de StyleNet" width="600px">
+  <img src="Entrenamiento del Modelo.png" alt="Progreso general del entrenamiento de StyleNet" width="600px">
 </p>
 
 ### Métricas Detalladas: Precisión y Pérdida
 <p align="center">
-  <img src="Graficos Precision del Modelo y Perdida del Modelo.PNG" alt="Curvas de precisión y pérdida del modelo StyleNet" width="800px">
+  <img src="Graficos Precision del Modelo y Perdida del Modelo.png" alt="Curvas de precisión y pérdida del modelo StyleNet" width="800px">
 </p>
 
 ## 🔍 Análisis de Calidad: Matriz de Confusión
