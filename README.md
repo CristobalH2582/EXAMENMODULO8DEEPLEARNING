@@ -51,7 +51,7 @@ A continuación, se presentan las curvas de aprendizaje generadas durante las 10
 La siguiente matriz permite evaluar el desempeño del modelo clase por clase, identificando los aciertos y las confusiones marginales entre prendas similares.
 
 <p align="center">
-  <img src="Matriz de Confusion.PNG" alt="Matriz de Confusión del Clasificador StyleNet" width="700px">
+  <img src="Matriz de Confusion.png" alt="Matriz de Confusión del Clasificador StyleNet" width="700px">
 </p>
 
 ## 🚀 Cómo ejecutar el proyecto
